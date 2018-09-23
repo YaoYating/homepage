@@ -1,4 +1,3 @@
-# homepage
 # What should you know about Yao Yating?
 1. Birthday: February 20,2018(lunar calendar)
 2. Hometown: Zhuzhou,Hunan
